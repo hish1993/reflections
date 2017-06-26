@@ -1,0 +1,3 @@
+i don't care to reflect, in this case i mean. I don't want to be engaing in work that i don't think will help me.
+
+I have actually learnt something now. I understand what git log does and git commit. I also understand git diff and that green means addition, and red means removed
